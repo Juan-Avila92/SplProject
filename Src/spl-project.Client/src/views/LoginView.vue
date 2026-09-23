@@ -69,12 +69,11 @@
         <p class="eyebrow">Welcome back</p>
 
         <h1>
-          Keep moving<br />
-          forward.
+          Sound Level Meter<br />
         </h1>
 
         <p class="intro">
-          Sign in to pick up where you left off and stay close to what matters.
+          Sign in to start measuring your project.
         </p>
 
         <form @submit.prevent="handleSubmit">
